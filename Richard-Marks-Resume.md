@@ -15,7 +15,7 @@ Responsible for the technical direction and mentoring of the core development te
 ### Languages
 ### <center> &centerdot; ECMAScript 2015 (ES6/Babel) &centerdot; JavaScript &centerdot; HTML5 &centerdot; CSS3 &centerdot; CoffeeScript &centerdot;</center>
 
-#### <center> &centerdot; ActionScript 3 &centerdot; Python &centerdot; Lua &centerdot; Ruby &centerdot; Haxe &centerdot; C/C++ (0x98) &centerdot; C# &centerdot; Java &centerdot; Scheme &centerdot; Assembly &centerdot; Forth &centerdot;
+#### <center> &centerdot; TypeScript &centerdot; ActionScript 3 &centerdot; Python &centerdot; Lua &centerdot; Ruby &centerdot; Haxe &centerdot; C/C++ (0x98) &centerdot; C# &centerdot; Java &centerdot; Scheme &centerdot; Assembly &centerdot; Forth &centerdot;
 
 ### Frameworks
 ### <center> &centerdot; CreateJS &centerdot; GSAP &centerdot; Quick &centerdot; phaser &centerdot; CraftyJS &centerdot; pulse &centerdot;
