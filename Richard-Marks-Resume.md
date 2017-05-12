@@ -29,7 +29,7 @@ Responsible for the technical direction and mentoring of the core development te
 ##### &centerdot; foundation &centerdot; h5 boilerplate &centerdot; ionic &centerdot; node &centerdot; electron &centerdot; SDL &centerdot; Allegro &centerdot; DirectX &centerdot; OpenFL &centerdot; RenPy &centerdot;
 
 ### Tools
-#### git, npm, vim, webpack, gulp, grunt, github, bitbucket, jira, confluence, Visual Studio, Unity, Animate, Illustrator, Photoshop, blender, GIMP, office (libre and Microsoft)
+#### git, npm, vim, webpack, gulp, grunt, github, bitbucket, jira, confluence, Visual Studio, Unity, Animate, Illustrator, Photoshop, blender, GIMP
 
 > _I love to learn new languages, try out new frameworks, and find new ways to solve old problems. The future of game development is constantly changing, and you've got to watch the horizon for anything and everything that comes your way._
 
