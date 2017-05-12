@@ -8,7 +8,7 @@ I developed a passion for game programming at a young age. Since 1988 I have tau
 ### Experience
 
 ##### Feb 2017 &ndash; Jun 2017 &mdash; Lead Front End Developer @ TandemSeven Boston, MA
-Responsibilities included engineering efficient cross-browser compatible modular components using React, ECMAScript 2015 and CSS3, coordinating with contractors and other team members for the rapid development of a large-scale multi-user web application front end solution.
+Responsibilities included engineering efficient cross-browser compatible modular components using React, ECMAScript 2015 and CSS3, unit testing components for functional consistency and stability, coordinating with contractors and other team members for the rapid development of a large-scale multi-user web application front end solution.
 
 ##### Dec 2015 &ndash; Feb 2017 &mdash; Senior Software Engineer @ Curriculum Associates, LLC. Billerica, MA
 Responsibilities included developing efficient solutions for enterprise educational technology products, team building and project management, coordinating large development efforts with other teams, assisting junior developers with ramping up on current technologies, establishing and documenting new APIs and engineering custom build and deploy solutions using cutting-edge modern web development technologies.
