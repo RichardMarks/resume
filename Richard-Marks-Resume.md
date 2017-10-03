@@ -7,6 +7,9 @@ I developed a passion for game programming at a young age. Since 1988 I have tau
 
 ### Experience
 
+##### Jul 2017 &ndash; Oct 2017 &mdash; Senior Full-Stack Engineer @ Strive Tech Inc. Bothell, WA
+Responsibilities included engineering performant mobile-friendly components using React, ECMAScript 2015 and CSS3, leading and coordinating feature development efforts with a junior developer. I personally led the development effort of building an easy to maintain and expand core foundation for additional features to be built upon. Technologies including Meteor, FlowRouter, MongoDB, React, Material-UI, and NVD3 were used in the development of a private sports statistics collection and data management app for mobile and desktop use.
+
 ##### Feb 2017 &ndash; Jun 2017 &mdash; Lead Front End Developer @ TandemSeven Boston, MA
 Responsibilities included engineering efficient cross-browser compatible modular components using React, ECMAScript 2015 and CSS3, unit testing components for functional consistency and stability, coordinating with contractors and other team members for the rapid development of a large-scale multi-user web application front end solution.
 
