@@ -1,4 +1,16 @@
-# About Richard Marks
+## TL;DR
+
++ Senior Software Engineer
++ 29 Years of programming experience
++ Front-end, Full-stack, Desktop, Mobile, Console Developer
++ React, ECMAScript2015, HTML5, JavaScript
++ Game Developer
++ Consultant, Artist, Musician
+
+----
+You made it this far? Great. :smile:
+
+## About Richard Marks
 
 I’m a hard-working, reliable and trustworthy US-based developer who is open and honest about everything I do. I know how to get things done. 
 
