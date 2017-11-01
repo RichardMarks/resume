@@ -9,6 +9,9 @@
 Strive is a platform that allows strength and conditioning coaches a better way to track and manage their players both on and off the field. Wellness surveys paired with smart clothing provide key data to coaches when preparing for game time.
 I held a leading senior role in the major feature development using React, Material-UI, Meteor, and MongoDB.
 
+#### One Call Care Management &copy; One Call
+Held a major senior engineering role in the development of the web application used by internal agents of One Call. Used React and flexbox CSS to craft major features, including Google APIs integrations and many custom reusable components.
+
 #### iReady - Adaptive K-12 Diagnostic / K-8 Instruction educational software. &copy; Curriculum Associates
 I was the lead senior engineer for several of the activities in the application, as well as played a critical role in the development of the underlying APIs of the application using CreateJS and many other third party libraries including my own public Collision2D library available on npm as c2d.
 
