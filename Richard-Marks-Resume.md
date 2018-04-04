@@ -1,11 +1,14 @@
 Richard Marks
 ===
 **Senior Software Engineer**
-_@bbastudios &mdash; ccpsceo@gmail.com &mdash; 504-452-3363_
+_@ycawmoycbw &mdash; richard@ramblingindie.games &mdash; 504-452-3363_
 
 I developed a passion for game programming at a young age. Since 1988 I have taught myself a plethora of programming languages, and built many projects for a wide variety of platforms. I am extremely versatile and easily adapt to any work environment. I live to code, to learn, and to educate others in the art of game programming.
 
 ### Experience
+
+##### Oct 2017 &ndash; Present &mdash; Lead Front End Developer @ TandemSeven Boston, MA
+Responsible for green-fielding a static product training intranet site, and the research and development of performance enhancements to an existing large corporate intranet front end solution using React, ECMAScript 2015 and CSS3, ensuring functional consistency and stability, and constant communication and coordination with other team members.
 
 ##### Jul 2017 &ndash; Oct 2017 &mdash; Senior Full-Stack Engineer @ Strive Tech Inc. Bothell, WA
 Responsibilities included engineering performant mobile-friendly components using React, ECMAScript 2015 and CSS3, leading and coordinating feature development efforts with a junior developer. I personally led the development effort of building an easy to maintain and expand core foundation for additional features to be built upon. Technologies including Meteor, FlowRouter, MongoDB, React, Material-UI, and NVD3 were used in the development of a private sports statistics collection and data management app for mobile and desktop use.
@@ -16,7 +19,7 @@ Responsibilities included engineering efficient cross-browser compatible modular
 ##### Dec 2015 &ndash; Feb 2017 &mdash; Senior Software Engineer @ Curriculum Associates, LLC. Billerica, MA
 Responsibilities included developing efficient solutions for enterprise educational technology products, team building and project management, coordinating large development efforts with other teams, assisting junior developers with ramping up on current technologies, establishing and documenting new APIs and engineering custom build and deploy solutions using cutting-edge modern web development technologies.
 
-##### Oct 2010 &ndash; Present &mdash; Senior Technical Director @ Bang Bang Attack Studios. Decatur, IL
+##### Oct 2010 &ndash; Present &mdash; Senior Technical Director @ Rambling Indie Games, LLC. Decatur, IL
 Responsible for the technical direction and mentoring of the core development team. Responsibilities include development and maintenance of all hardware, software, tools, and various pipelines required to maintain the development production environment. Responsible for the recruitment and training of new team members.
 
 ### Languages
